@@ -1,2 +1,2 @@
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [https://blog-next-1cgu.vercel.app/](https://blog-next-1cgu.vercel.app/) with your browser to see the web result.
 
